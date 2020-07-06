@@ -1,5 +1,5 @@
 {
-    "name": "fungio/outlook-calendar-bundle",
+    "name": "leonardpasquier/fungio-outlook-calendar-bundle",
     "type": "symfony-bundle",
     "description": "Provides a outlook calendar integration for your Symfony 3 Project.",
     "keywords": [
